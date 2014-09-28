@@ -11,3 +11,11 @@ The project is finilized but the source code might revised, time to time.
 
 Enjoy
 Mani
+
+
+To compile run make
+
+In order to run, Weka 3-6-4 or later is needed
+Configure Weka independently then open CommIncludes.h and set associated Weka path.
+then compile the code using Make
+
